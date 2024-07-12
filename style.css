@@ -1,0 +1,32 @@
+header{
+    color: white;
+    background-color: rgb(0, 84, 41);
+    display: flex;
+}
+.row{
+    border: 2px solid black;
+    margin: 50px 300px;
+    border-radius: 9px;
+    padding: 20px;
+    background-color: rgb(247, 247, 247);
+}
+.input1{
+    width: 80%;
+}
+.h2{
+    margin-left: 700px;
+    margin-top: 5px;
+
+}
+.h{
+    margin-left: 100px;
+}
+.p{
+    text-align:center;
+    padding-top: 40px;
+    padding-left: 2px;
+}
+input:hover{
+    background-color: rgb(108, 249, 173);
+}
+
